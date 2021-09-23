@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## The Tomb Music Bot
 
-You can use the [editor on GitHub](https://github.com/TombMusic/Tomb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can invite the bot [here](https://discord.com/oauth2/authorize?client_id=889472244110229564&permissions=0&scope=bot) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This music bot is always online!
 
-### Markdown
+features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. FREE
+2. Always online
+3. Just good ;)
 
-```markdown
-Syntax highlighted code block
+## Commands
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TombMusic/Tomb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. %help (Shows help menu)
+2. %play (Youtube url/Song name)
+3. %stop (Stops the music)
